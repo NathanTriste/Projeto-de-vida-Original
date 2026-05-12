@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
-@import url('file:///tmp/guest-ipmmtn/Downloads/athletico-paranaense.jpg');
+<img src="file:///tmp/guest-ipmmtn/Downloads/athletico-paranaense.jpg" alt="Descrição da imagem" width="300">
 
 :root {
     --cor-de-fundo: #810303;
